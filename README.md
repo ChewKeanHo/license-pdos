@@ -60,7 +60,7 @@ as its baseline and applies the following changes:
 The latest license files shall be referenced and be downloadable from:
 
 ```
-https://doi.org/10.5281/zenodo.13767361
+https://doi.org/10.5281/zenodo.13770769
 ```
 
 
@@ -82,7 +82,7 @@ You have the permission to use, copy, modify, and/or distribute this product
 for any purpose with or without fee is hereby granted. You may obtain a copy of
 the License at:
 
-                  https://doi.org/10.5281/zenodo.13767361
+                  https://doi.org/10.5281/zenodo.13770769
 
 THE PRODUCT IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS PRODUCT INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
