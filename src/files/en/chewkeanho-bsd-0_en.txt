@@ -1,0 +1,147 @@
+(Holloway) Chew, Kean Ho’s BSD Zero Clause License
+Covering all terms and conditions for this license
+
+ID:
+chewkeanho-bsd-0
+
+Version:
+v1.0.0
+
+By:
+(Holloway) Chew, Kean Ho
+legal@hollowaykeanho.com
+
+For:
+Legal Entities Procuring Product subjected to this License
+
+Effective from:
+Friday 19 April 2024
+
+Available at:
+https://doi.org/10.5281/zenodo.13770769
+
+--------------------------------------------------------------------------------
+This Agreement is made on the date and time stipulated by any of the action
+specified in Section 2 of this License:
+
+BETWEEN
+  1. (Holloway) Chew, Kean Ho (Business Reg. No: 202403160286) of
+     Seri Kembangan, Malaysia (hereinafter refers as “HOLLOWAY”)
+AND
+  1. YOU, where you’re a legally liable entity of whatsoever description
+     including but not limited to an individual, a group of individuals, a sole
+     proprietorship, a partnership, a body corporate, governmental bodies and
+     agencies, or otherwise of any kind established under the laws, rules
+     and/or regulations for the time being in force and which may come into
+     force authorized to use one or more (Holloway) Chew, Kean Ho’s Products
+     subjected to these Terms and Conditions herein (hereinafter referred as
+     “CLIENT”)
+
+(CLIENT shall be collectively referred to as “Receiving Parties”)
+(HOLLOWAY, and the Receiving Parties shall be collectively referred to as
+“Parties”)
+
+WHEREAS:
+  A. The Receiving Parties are desirous of appointing HOLLOWAY for one or more
+     Products (as defined in this License). At the request of the Receiving
+     Parties, HOLLOWAY agrees to provide the service of the Product to the
+     Receiving Parties upon the terms and subject to the conditions set out in
+     this License.
+
+NOTE THE PARTIES ARE AGREED as follows:
+
+
+1 Definitions
+  1.1 Words importing the singular number includes the plural number and vice
+      versa.
+  1.2 Words importing the masculine gender including feminine.
+
+"Author" means the entities involving directly and indirectly towards the
+Content creation, modification, actualization, and realization such as but not
+limited to Us, the publishers, the inventors, the writers, the designers, the
+editors, the curator, and etc.
+
+"Content" means a literary or artistic property (such as but not limited to a
+book, title, writing, artwork, images, movie, website, software, or musical
+composition) that is capable of being printed, copied, sold, licensed,
+distributed, transformed to another medium, translated, recorded or performed or
+otherwise use (or not use) and to give it to another by will; and is governed by
+Copyrights laws of Yours and Ours country of operations and country of
+residences.
+
+"License" means the terms and conditions designated in this document agreed by
+both You and Us.
+
+"Notice" means all official bill statements, receipts, notices, requests,
+notice of demands, writ of summons, all other legal processes and/or other
+communications/documents.
+
+"Payment" means a monetary transactional financial payable amount through any
+facilitated Payment Method.
+
+"Payment Method" means one or more facilitated official financial monetary
+exchange channels such as, but not limited to: (i) bank transfer;
+(2) e-wallet transfer; (3) credit card charging transfer; (4) cash transfer.
+
+"Procure" means the action of obtaining a Product either though the means of
+Purchase or provided freely by Us.
+
+"Product" means a procurable tangible or intangible serviceable goods (not to be
+confused with Service) such as but not limited to physical products (example:
+software, source codes, compiled software binaries & libraries, computing
+devices, graphic materials, CAD design, architecture artifacts, and clothing)
+and packaged services (example: data processing services, content creation
+services, and repair services) offered by Us.
+
+"Purchase" means the action of obtaining a Product via the means of performing
+one or more Payment.
+
+"Service" means the required customer services offered by Us in order to deliver
+a procured Product such as but not limited to logistics, concierge, and etc.
+
+"You", "Yours" means the Receiving Parties.
+
+"We", "Us", "Our" means HOLLOWAY and any of its subsidiaries, affiliates, or
+successors.
+
+
+2 License Assignment, Ratification, and Tenure
+  2.1 This License shall be ratified by You, be effective, and be in-force until
+      terminated according to these terms and conditions starting from the
+      explicitly specified actions such as but not limited to:
+        2.1.1 fulfilling checkbox in web form submission from any of Our
+              supported User Interfaces; OR
+        2.1.2 procuring the Product from any source be it directly from Ours or
+              a third-party Entity regardless of Ours’ authorizations; OR
+        2.1.3 using any part of the Content from the Procured Product by any
+              means regardless of any of Our License Grant status with You; OR
+        2.1.4 actively or passively reading, analyzing, or reverse engineering
+              the Product; OR
+        2.1.5 performing Payment upon any Product procurement; OR
+        2.1.6 delivering formal written Notice referencing to this License
+              signed by You to Us; OR
+        2.1.7 agreement upon any other Product or Service level terms and
+              conditions extended from this License specified therein.
+  2.2 You are not permitted to assign or novate any or parts of their rights and
+      obligations under the License to any party without Ours’ written approval.
+  2.3 We may assign or novate all or parts of the License to any third party by
+      written Notice without prior consent from You and You shall agree to make
+      all subsequent payments (if applicable) and commitment to Us as instructed
+      in such further Notice.
+
+
+3 BSD Zero Clause License
+  3.1 You have the permission to use, copy, modify, and/or distribute this
+      Product for any purpose with or without fee is hereby granted.
+  3.2 THE PRODUCT IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+      WITH REGARD TO THIS PRODUCT INCLUDING ALL IMPLIED WARRANTIES OF
+      MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+      ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+      WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+      ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+      OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS PRODUCT.
+
+
+4 Contact and Support
+  4.1 We are reachable via the following channels:
+        4.1.1 Email: hello@hollowaykeanho.com
