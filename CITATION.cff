@@ -1,0 +1,63 @@
+cff-version: "1.2.0"
+type: "software"
+date-released: "2024-09-16"
+title: "(Holloway) Chew, Kean Ho's BSD Zero Clause License"
+version: "0.0.1"
+license: "CC-BY-ND-4.0"
+repository: "https://github.com/ChewKeanHo/license-bsd-0"
+repository-code: "https://github.com/ChewKeanHo/license-bsd-0"
+repository-artifact: "https://github.com/ChewKeanHo/license-bsd-0/releases"
+url: "https://doi.org/10.5281/zenodo.13767361"
+contact:
+  - affiliation: "(Holloway) Chew, Kean Ho"
+    email: "hello@hollowaykeanho.com"
+    website: "https://www.hollowaykeanho.com"
+abstract: |-
+  A published adapted BSD Zero Clause License for (Holloway) Chew, Kean Ho
+  product licensing purposes. This version adopt the Open Source Initiative's
+  BSD Zero Clause License (https://opensource.org/license/0bsd) as its baseline
+  and applies the following changes:
+
+  (1) Changed "Software" to "Product" so that the license can be expanded to
+      non-software product licensing usage (e.g. graphics, video, etc) without
+      needing to spin multiple licenses.
+  (2) Added license assignment, ratification, and tenure section to specify when
+      and how is the license applied.
+
+  This repository is version controlled using Semantic Versioning definitions
+  where:
+
+  (1) the "MAJOR" version denotes legal changes where in this case, it is locked
+      to version "1".
+  (2) the "MINOR" version denotes minor changes without altering the legal
+      implication side of things such as but not limited to grammar correction,
+      fonts, typo, and etc.
+  (3) the "PATCH" version denotes the repository management changes such as but
+      not limited to new language addition, updating this "README.md", and etc.
+
+  This license is by far the **MOST LENIENT** among all published licenses under
+  (Holloway) Chew, Kean Ho where:
+
+  (1) No attribution to the copyright holders is required.
+  (2) The copyright holders are not responsible for anything of any kind.
+  (3) You're free to use for personal deployment at your own volition.
+  (4) You're free to use for commercial deployment at your own volition.
+  (5) You're free to edit/modify at your own volition.
+  (6) You're free to remix at your own volition.
+  (7) You're free to distribute the content at your own volition.
+  (8) You're free to re-distribute the content at your own volition.
+  (9) You're not required to expose and upstream your changes back to the
+      copyright holders (Copyleft effect).
+message: |-
+  Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "hello@hollowaykeanho.com"
+    affiliation: "Independent"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
+keywords:
+  - "Product"
+  - "License"
+  - "BSD Zero Clause"
+  - "Adopt & Modify"
