@@ -33,7 +33,7 @@ under `(Holloway) Chew, Kean Ho` where:
 6. You're free to remix at your own volition.
 7. You're free to distribute the content at your own volition.
 8. You're free to re-distribute the content at your own volition.
-9. You're not required to expose and upstream your changes back to the copyright
+9. You're NOT REQUIRED to expose and upstream your changes back to the copyright
    holders (Copyleft effect).
 
 
