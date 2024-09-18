@@ -5,8 +5,7 @@ A published adapted BSD Zero Clause License for
 purposes. This repository is version controlled using
 [Semantic Versioning](https://semver.org/) definitions where:
 
-1. the `MAJOR` version denotes legal changes where in this case, it is locked to
-   version `1`.
+1. the `MAJOR` version denotes legal changes.
 2. the `MINOR` version denotes minor changes without altering the legal
    implication side of things such as but not limited to grammar correction,
    fonts, typo, and etc.

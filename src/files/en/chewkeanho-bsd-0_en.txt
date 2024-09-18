@@ -1,11 +1,11 @@
-(Holloway) Chew, Kean Ho’s BSD Zero Clause License
+﻿(Holloway) Chew, Kean Ho’s BSD Zero Clause License
 Covering all terms and conditions for this license
 
 ID:
 chewkeanho-bsd-0
 
 Version:
-v1.0.0
+v1.0.1
 
 By:
 (Holloway) Chew, Kean Ho
@@ -21,32 +21,35 @@ Available at:
 https://doi.org/10.5281/zenodo.13770769
 
 --------------------------------------------------------------------------------
-This Agreement is made on the date and time stipulated by any of the action
-specified in Section 2 of this License:
-
+This Agreement is made on the date and time whichever earliest either
+stipulated or by the first execution of any of the stipulated action
+specified herein the “Covenant Assignment, Ratification, and Tenure”
+section of this Covenant:
 BETWEEN
   1. (Holloway) Chew, Kean Ho (Business Reg. No: 202403160286) of
-     Seri Kembangan, Malaysia (hereinafter refers as “HOLLOWAY”)
+     Seri Kembangan, Malaysia  (hereinafter refers as “HOLLOWAY”)
 AND
   1. YOU, where you’re a legally liable entity of whatsoever description
-     including but not limited to an individual, a group of individuals, a sole
-     proprietorship, a partnership, a body corporate, governmental bodies and
-     agencies, or otherwise of any kind established under the laws, rules
-     and/or regulations for the time being in force and which may come into
-     force authorized to use one or more (Holloway) Chew, Kean Ho’s Products
-     subjected to these Terms and Conditions herein (hereinafter referred as
-     “CLIENT”)
+     including but not limited to an individual, a group of individuals,
+     a sole proprietorship, a partnership, a body corporate, governmental
+     bodies and agencies, or otherwise of any kind established under the
+     laws, rules and/or regulations for the time being in force and which
+     may come into force authorized to use one or more
+     (Holloway) Chew, Kean Ho’s Products subjected to these terms and
+     conditions herein (hereinafter referred as “CLIENT”)
 
 (CLIENT shall be collectively referred to as “Receiving Parties”)
-(HOLLOWAY, and the Receiving Parties shall be collectively referred to as
-“Parties”)
+(HOLLOWAY shall be collectively referred to as “Provisioning Parties”)
+(the Provisioning Parties and the Receiving Parties shall be collectively
+referred to as “Parties”)
 
 WHEREAS:
-  A. The Receiving Parties are desirous of appointing HOLLOWAY for one or more
-     Products (as defined in this License). At the request of the Receiving
-     Parties, HOLLOWAY agrees to provide the service of the Product to the
-     Receiving Parties upon the terms and subject to the conditions set out in
-     this License.
+  A. The Receiving Parties are desirous of appointing
+     the Provisioning Parties for one or more Products (as defined in this
+     Covenant). At the request of the Receiving Parties, the
+     Provisioning Parties agrees to provide the values and services of
+     the Product to the Receiving Parties upon the terms and subject to the
+     conditions set out in this legal document.
 
 NOTE THE PARTIES ARE AGREED as follows:
 
@@ -55,29 +58,43 @@ NOTE THE PARTIES ARE AGREED as follows:
   1.1 Words importing the singular number includes the plural number and vice
       versa.
   1.2 Words importing the masculine gender including feminine.
+  1.3 Unless otherwise specified, all capitalized terms shall have the meaning
+      set forth in this Covenant. All other terms not defined herein shall
+      have the meaning as may generally be accepted by industrial based on
+      context used herein.
 
-"Author" means the entities involving directly and indirectly towards the
-Content creation, modification, actualization, and realization such as but not
-limited to Us, the publishers, the inventors, the writers, the designers, the
-editors, the curator, and etc.
+"Author", "Creator" means the entities involving directly and indirectly
+towards the Content creation, modification, actualization, and realization
+such as but not limited to Us, the publishers, the inventors, the writers,
+the designers, the editors, the curator, and etc.
 
-"Content" means a literary or artistic property (such as but not limited to a
-book, title, writing, artwork, images, movie, website, software, or musical
-composition) that is capable of being printed, copied, sold, licensed,
-distributed, transformed to another medium, translated, recorded or performed or
-otherwise use (or not use) and to give it to another by will; and is governed by
-Copyrights laws of Yours and Ours country of operations and country of
-residences.
+"Content" means a literary, an appreciative value, or an artistic property
+(such as but not limited to a book, title, writing, artwork, images, movie,
+website, software, or musical composition) be it in its tangible and/or
+intangible physical form that is capable of being produced, reproduced,
+manufactured, printed, copied, sold, licensed, distributed,
+transformed to another medium, translated, recorded or performed or otherwise
+use (or not use) and to give it to another by will; and is governed by
+copyrights laws, manufacturing laws, intellectual properties laws, and other
+applicable governing laws of Yours and Ours country of operations and country
+of residences.
 
-"License" means the terms and conditions designated in this document agreed by
-both You and Us.
+"Covenant" means the terms and conditions designated in this legally binding
+document which can be but not limited to a contract, license, agreement,
+terms and conditions, terms of use, or privacy policy agreed by You and Us.
+
+"Grant" means the specific and exclusive terms and conditions permitted and
+granted by Us such as but not limited to use rights, the type of ability,
+its effective periods, its limitations and scopes, its conditions of use,
+its prohibitions, terms overrides, terms amendments, and Payment details;
+that are delivered to You strictly in written format.
 
 "Notice" means all official bill statements, receipts, notices, requests,
 notice of demands, writ of summons, all other legal processes and/or other
 communications/documents.
 
-"Payment" means a monetary transactional financial payable amount through any
-facilitated Payment Method.
+"Payment" means a monetary transactional financial payable amount through
+any facilitated Payment Method.
 
 "Payment Method" means one or more facilitated official financial monetary
 exchange channels such as, but not limited to: (i) bank transfer;
@@ -86,62 +103,80 @@ exchange channels such as, but not limited to: (i) bank transfer;
 "Procure" means the action of obtaining a Product either though the means of
 Purchase or provided freely by Us.
 
-"Product" means a procurable tangible or intangible serviceable goods (not to be
-confused with Service) such as but not limited to physical products (example:
-software, source codes, compiled software binaries & libraries, computing
-devices, graphic materials, CAD design, architecture artifacts, and clothing)
-and packaged services (example: data processing services, content creation
-services, and repair services) offered by Us.
+"Product" means a procurable tangible or intangible serviceable goods
+(not to be confused with Service) such as but not limited to physical
+products (example: software, source codes, compiled software binaries &
+libraries, computing devices, graphic materials, Computer Aided Design files,
+architecture artifacts, and clothing) and packaged services (example:
+data processing services, content creation services, and repair services)
+offered by Us.
 
-"Purchase" means the action of obtaining a Product via the means of performing
-one or more Payment.
+"Purchase" means the action of obtaining a Product via the means of
+performing one or more Payment.
 
-"Service" means the required customer services offered by Us in order to deliver
-a procured Product such as but not limited to logistics, concierge, and etc.
+"Service" means the required customer services offered by Us in order to
+deliver a procured Product such as but not limited to logistics, concierge,
+and etc.
+
+"User Interface" means the end-user interactive facilities designed for You
+to communicate with the Product and/or Service such as but not limited to
+web application; web app; mobile app; books; manuals; smart devices; and
+Our Web Portal.
 
 "You", "Yours" means the Receiving Parties.
 
-"We", "Us", "Our" means HOLLOWAY and any of its subsidiaries, affiliates, or
-successors.
+"Web Portal" means any browse-able Content platforms accessible under the
+domain name hollowaykeanho.com alongside with all its paths
+(e.g. www.hollowaykeanho.com/about) and subdomains
+(e.g. legal.hollowaykeanho.com) of any kinds; or any approved third party
+domains with verifiable back-linking directly from hollowaykeanho.com.
+
+"We", "Us", "Our" means the Provisioning Parties and any of their
+subsidiaries, affiliates, or successors.
 
 
-2 License Assignment, Ratification, and Tenure
-  2.1 This License shall be ratified by You, be effective, and be in-force until
-      terminated according to these terms and conditions starting from the
-      explicitly specified actions such as but not limited to:
+2 Covenant Assignment, Ratification, and Tenure
+  2.1 This Covenant shall be ratified by You, be effective, and be in-force
+      until terminated according to these terms and conditions starting on
+      the date and time whichever earliest from one or more the explicitly
+      specified actions herein such as but not limited to:
         2.1.1 fulfilling checkbox in web form submission from any of Our
               supported User Interfaces; OR
-        2.1.2 procuring the Product from any source be it directly from Ours or
-              a third-party Entity regardless of Ours’ authorizations; OR
-        2.1.3 using any part of the Content from the Procured Product by any
-              means regardless of any of Our License Grant status with You; OR
+        2.1.2 procuring the Product from any source with or without Ours’
+              authorizations be it directly from Us or from a third-party
+              entity regardless of its affiliation with Us; OR
+        2.1.3 using any part of the Content from the Procured Product by
+              any means regardless of any of Our Covenant Grant approval
+              status with You; OR
         2.1.4 actively or passively reading, analyzing, or reverse engineering
-              the Product; OR
-        2.1.5 performing Payment upon any Product procurement; OR
-        2.1.6 delivering formal written Notice referencing to this License
+              the Product with or without Ours’ written authorizations; OR
+        2.1.5 performing Payment upon the Product procurement; OR
+        2.1.6 delivering formal written Notice referencing to this Covenant
               signed by You to Us; OR
-        2.1.7 agreement upon any other Product or Service level terms and
-              conditions extended from this License specified therein.
-  2.2 You are not permitted to assign or novate any or parts of their rights and
-      obligations under the License to any party without Ours’ written approval.
-  2.3 We may assign or novate all or parts of the License to any third party by
-      written Notice without prior consent from You and You shall agree to make
-      all subsequent payments (if applicable) and commitment to Us as instructed
-      in such further Notice.
+        2.1.7 agreement upon any other Product or Service level external terms
+              and conditions extended from this Covenant specified therein.
+  2.2 You are not permitted to assign or novate any or parts of the rights and
+      obligations under the Covenant to any party without Ours’ written
+      approval.
+  2.3 We may assign or novate all or parts of the Covenant to any third party
+      by written Notice without prior consent from You and You shall agree to
+      make all subsequent payments (if applicable) and commitment to Us as
+      instructed in such further Notice.
 
 
 3 BSD Zero Clause License
   3.1 You have the permission to use, copy, modify, and/or distribute this
       Product for any purpose with or without fee is hereby granted.
-  3.2 THE PRODUCT IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-      WITH REGARD TO THIS PRODUCT INCLUDING ALL IMPLIED WARRANTIES OF
-      MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-      ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-      WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-      ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-      OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS PRODUCT.
+  3.2 The product is provided “as is” and the Creators disclaim all
+      warranties with regard to this product including all implied warranties
+      of merchantability and fitness.
+  3.3 In no event shall the Creators be liable for any special, direct,
+      indirect, or consequential damages or any damages whatsoever resulting
+      from loss of use, data or profits, whether in an action of contract,
+      negligence or other tortious action, arising out of or in connection
+      with the use or performance of this product.
 
 
 4 Contact and Support
   4.1 We are reachable via the following channels:
-        4.1.1 Email: hello@hollowaykeanho.com
+        4.1.1 Email: hello@hollowaykeanho.com OR legal@hollowaykeanho.com
