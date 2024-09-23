@@ -1,8 +1,8 @@
-# (Holloway) Chew, Kean Ho's BSD Zero Clause License
+# (Holloway) Chew, Kean Ho's Public Domain License
 
 A public domain level friendly open source license for
 [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product licensing
-purposes. This version adopt the
+purposes. This license was adopted from the
 [Open Source Initiative's BSD Zero Clause License](https://opensource.org/license/0bsd)
 as its baseline and applies the following changes:
 
@@ -13,6 +13,10 @@ as its baseline and applies the following changes:
    and how is the license applied; AND
 3. Added version controlled clauses for which version shall be in effect by
    default.
+
+This license was formally known as
+`(Holloway) Chew, Kean Ho's BSD Zero Clause License` but was later renamed
+as such for consistencies purposes.
 
 
 
@@ -47,8 +51,8 @@ do the following:
       product you use, be it in its raw form (e.g. source codes) or its
       produced form (compiled software binary files); AND
    4. are **NOT REQUIRED BUT NOT RECOMMENDED** to use the creators' name,
-      brand, and trademark without their written notices for any uses listed
-      above; AND
+      brand, and trademark without their written notices for any endorsement of
+      your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 2. *You're free to use for commercial deployment at your own volition as long
@@ -60,8 +64,8 @@ do the following:
       product you use, be it in its raw form (e.g. source codes) or its
       produced form (compiled software binary files); AND
    4. are **NOT REQUIRED BUT NOT RECOMMENDED** to use the creators' name,
-      brand, and trademark without their written notices for any uses listed
-      above; AND
+      brand, and trademark without their written notices for any endorsement of
+      your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 3. *You're free to edit/modify at your own volition as long as you*:
@@ -72,8 +76,8 @@ do the following:
       product you use, be it in its raw form (e.g. source codes) or its
       produced form (compiled software binary files); AND
    4. are **NOT REQUIRED BUT NOT RECOMMENDED** to use the creators' name,
-      brand, and trademark without their written notices for any uses listed
-      above; AND
+      brand, and trademark without their written notices for any endorsement of
+      your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 4. *You're free to remix at your own volition as long as you*:
@@ -84,8 +88,8 @@ do the following:
       product you use, be it in its raw form (e.g. source codes) or its
       produced form (compiled software binary files); AND
    4. are **NOT REQUIRED BUT NOT RECOMMENDED** to use the creators' name,
-      brand, and trademark without their written notices for any uses listed
-      above; AND
+      brand, and trademark without their written notices for any endorsement of
+      your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 5. *You're free to distribute the content at your own volition as long as you*:
@@ -96,8 +100,8 @@ do the following:
       product you use, be it in its raw form (e.g. source codes) or its
       produced form (compiled software binary files); AND
    4. are **NOT REQUIRED BUT NOT RECOMMENDED** to use the creators' name,
-      brand, and trademark without their written notices for any uses listed
-      above; AND
+      brand, and trademark without their written notices for any endorsement of
+      your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect); AND
 6. *You're free to re-distribute the content at your own volition as long as
@@ -109,8 +113,8 @@ do the following:
       product you use, be it in its raw form (e.g. source codes) or its
       produced form (compiled software binary files); AND
    4. are **NOT REQUIRED BUT NOT RECOMMENDED** to use the creators' name,
-      brand, and trademark without their written notices for any uses listed
-      above; AND
+      brand, and trademark without their written notices for any endorsement of
+      your pursue; AND
    5. are **NOT REQUIRED** to expose and upstream your changes back to the
       copyright holders all the way back to us (copyleft effect).
 
@@ -138,9 +142,9 @@ The following are the license notice within the supported languages:
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
 
-Licensed under the (Holloway) Chew, Kean Ho’s BSD Zero Clause License (the
-"License"); you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Licensed under the (Holloway) Chew, Kean Ho’s Public Domain License
+(the "License"); you may not use this file except in compliance with the
+License. You may obtain a copy of the License at
 
                  https://doi.org/10.5281/zenodo.13770769
 
