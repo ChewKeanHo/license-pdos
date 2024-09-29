@@ -1,18 +1,14 @@
-﻿(Holloway) Chew, Kean Ho’s Public Domain License
+(Holloway) Chew, Kean Ho’s Public Domain License
 Covering all terms and conditions for this license
 
 ID:
 chewkeanho-pdos
 
 Version:
-v3.0.0
+v4.0.0
 
-By:
-(Holloway) Chew, Kean Ho
-legal@hollowaykeanho.com
-
-For:
-Legal Entities Procuring Product subjected to this License
+Authored & Reviewed By:
+(Holloway) Chew, Kean Ho <legal@hollowaykeanho.com>
 
 Available at:
 https://doi.org/10.5281/zenodo.13770769
@@ -29,16 +25,17 @@ BETWEEN
      “PRINCIPAL”
   2. Any Entity (as defined in this Covenant) providing one or more
      Contribution(s) (as defined in this Covenant) for the betterment of
-     the Product (as defined in this Covenant) directly or indirectly, with
-     or without, independent or dependent of the PRINCIPAL’s involvement or
-     authorizations hereinafter refers as “CONTRIBUTOR”
+     the Product (as defined in this Covenant) directly or indirectly,
+     with or without, independent or dependent of the PRINCIPAL’s
+     involvement or authorizations hereinafter refers as “CONTRIBUTOR”
   3. Any Entity (as defined in this Covenant) providing Services
-     (as defined in this Covenant) for delivering the values of the Products
-     (as defined in this Covenant) directly or indirectly, with or without,
-     independent or dependent of the PRINCIPAL’s and/or CONTRIBUTOR’s
-     involvement or authorizations hereinafter refers as “CONCIERGE”
-(PRINCIPAL, CONTRIBUTOR, and CONCIERGE shall be collectively referred to as
-“Provisioning Parties”)
+     (as defined in this Covenant) for delivering the values of the
+     Products (as defined in this Covenant) directly or indirectly,
+     with or without, independent or dependent of the PRINCIPAL’s and/or
+     CONTRIBUTOR’s involvement or authorizations hereinafter refers as
+     “CONCIERGE”
+(PRINCIPAL, CONTRIBUTOR, and CONCIERGE shall be collectively referred to
+as “Provisioning Parties”)
 AND
   1. YOU, where you’re a legally liable Entity (as defined in this Covenant)
      authorized to use one or more Provisioning Parties’ Products
@@ -67,15 +64,22 @@ NOTE THE PARTIES ARE AGREED as follows:
   1.1 Words importing the singular number includes the plural number and
       vice versa.
   1.2 Words importing the masculine gender including feminine.
-  1.3 Unless otherwise specified, all capitalized terms shall have the
-      meaning set forth in this Covenant. All other terms not defined herein
-      shall have the meaning as may generally be accepted by industrial
-      based on context used herein.
+  1.3 Time whenever referred to in this Covenant shall be of the essence.
+  1.4 Unless otherwise specified, all capitalized terms shall have the
+      meaning set forth in this Covenant. All other terms not defined
+      herein shall have the meaning as may generally be accepted by
+      industrial based on context used herein.
 
-"Author", "Creator" means the entities involving directly and indirectly
-towards the Content creation, modification, actualization, and realization
-such as but not limited to Us, the publishers, the inventors, the writers,
-the designers, the editors, the curator, and etc.
+"Authentication Credentials" means any confidential and uniquely
+identifiable information with access authorization and authentication
+capability such as but not limited to username, email addresses,
+phone numbers, passwords, 2-factor authentication token and its generator.
+
+"Creator" means the entities involving directly and indirectly towards
+the Product's Content creation, modification, actualization, and
+realization such as but not limited to Us, the Contributing Entities,
+the publishers, the inventors, the writers, the designers, the editors,
+the curator, and etc.
 
 "Content" means a literary, an appreciative value, or an artistic property
 (such as but not limited to a text, book, title, writing, artwork, images,
@@ -85,53 +89,59 @@ reproduced, manufactured, printed, copied, sold, licensed, distributed,
 transformed to another medium, translated, recorded or performed or
 otherwise use (or not use) and to give it to another by will; and is
 governed by copyrights laws, manufacturing laws,
-intellectual properties laws, and other applicable governing laws of Yours
-and Ours countries of operation and countries of residence.
+intellectual properties laws, and other applicable governing laws of
+Your and Our countries of operations and countries of residences.
 
-"Contribute", "Contributing", "Contribution" means the action of producing
-or directly referring to the work of authorship, craftsmanship, goods,
-and services; including the original version of the Product or the Service
-and any modifications or additions to that Product or Service or
-Derived Product or Derived Service thereof; that is intentionally submitted
-by the means of any form be it electronic, verbal, physical, or written
-communication such as but not limited to logistical goods delivery,
-communication on electronic mailing lists, source code control systems, and
-issue tracking systems to Us for inclusion in the Product or Service by Us
-or by an Entity with submission authority for the work's owner rights with
-the sole purpose of discussing and improving the Product or Service but
+"Contribute", "Contributing", "Contribution" means the action of
+producing or directly referring to the work of authorship,
+craftsmanship, goods, and services; including the original version
+of the Product or the Service and any modifications or additions to
+that Product, Service, Derived Product, or Derived Service thereof;
+that is intentionally submitted by the means of any form be it
+electronic, verbal, physical, or written communication such as but
+not limited to logistical goods delivery, communication on electronic
+mailing lists, source code control systems, and issue tracking systems
+to Us for inclusion into the Product or the Service by Us or by an Entity
+with submission authority for the work's owner rights with the sole
+purpose of discussing and improving the Product or the Service but
 excluding communication that is conspicuously marked or otherwise
-designated in writing by Us as "Not a Contribution."
+designated in writing by Us as "not a contribution".
 
 "Covenant" means the terms and conditions designated in this legally
 binding document which can be but not limited to a contract, license,
 agreement, terms and conditions, terms of use, or privacy policy agreed
 by You and Us.
 
-"Entity" means the union of the legally liable acting entity and all other
-entities that control, are controlled by, or are under common control with
-that entity where "control" means (i) the power, direct or indirect,
-to cause the direction or management of such entity, whether by contract or
-otherwise, or (ii) ownership of fifty percent (50%) or more of the
-outstanding shares, or (iii) beneficial ownership of such entity such as
-but not limited to an individual, a group of individuals,
-a sole proprietorship, a partnership, a body corporate, governmental bodies
-and agencies, or otherwise of any kind established under the laws,
-rules and/or regulations for the time being in force and which may come
-into force.
+"Entity" means the union of the legally liable acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity where "control" means (i) the power, direct
+or indirect, to cause the direction or management of such entity,
+whether by contract or otherwise, or (ii) ownership of fifty percent
+(50%) or more of the outstanding shares, or (iii) beneficial ownership
+of such entity such as but not limited to an individualistic natural person,
+a group of individualistic natural people, a sole proprietorship,
+a partnership, a corporate body, a governmental body or agency, or
+otherwise of any kind established under the laws, rules and/or regulations
+for the time being in force and which may come into force.
 
 "Grant" means the specific and exclusive terms and conditions such as but
 not limited to use rights, the type of ability, its effective periods,
 its limitations and scopes, its conditions of use, its prohibitions,
-its overriding terms, its amending terms, and Your Payment details approved
-and permitted by Us for You delivered strictly in written format.
+its overriding terms and conditions, its amending terms and conditions,
+and Your Payment details approved and permitted by Us for You delivered
+strictly in written and self-verifiable format.
 
 "Interface", "Interfacing" means the action of interacting with or directly
-referring to an interactive control surfaces offered by a Product or a
-Service, regardless of its intentional design or otherwise, externally for
-its users to use and to control the Product's or the Service's operations
-itself such as but not limited to control buttons hardware panels,
+referring to an interactive control surfaces offered by a Product or
+a Service, regardless of its design intention, externally made available
+for its users to use and to control the Product's or the Service's
+operations itself with or without revealing its internal operating
+mechanisms such as but not limited to control buttons hardware panels,
 controller, User Interfaces, application programmable interfaces (API),
 application binary interface (ABI), and piping valves controls.
+
+"License" means the terms and conditions designated in this legally binding
+document agreed by both You and Us.
 
 "Notice" means all official bill statements, receipts, notices, requests,
 notice of demands, writ of summons, all other legal processes and/or other
@@ -142,109 +152,336 @@ any facilitated Payment Method.
 
 "Payment Method" means one or more facilitated official financial monetary
 exchange channels such as, but not limited to: (i) bank transfer;
-(2) e-wallet transfer; (3) credit card charging transfer; (4) cash transfer.
+(2) e-wallet transfer; (3) credit card charging transfer;
+(4) cash transfer.
 
-"Procure" means the action of obtaining a Product either though the means
-of Purchase or provided freely by Us.
+"PDPA" means any personal data protection clauses from the applicable
+governing laws of Your and Our countries of operations and countries of
+residences such as but not limited to
+Malaysia’s Personal Data Protection Act 2010.
 
-"Product" means a procurable tangible or intangible serviceable goods
-(not to be confused with Service) such as but not limited to physical
-products (example: software, source codes, compiled software binaries
-& libraries, computing devices, graphic materials, Computer Aided Design
-files, architecture artifacts, and clothing) and packaged services
-(example: data processing services, content creation services, and
-repair services) offered by Us.
+"PII" means any personal identifiable information that can distinguish or
+trace back to an individualistic natural person's identity,
+either singularly on its own or when combined with other personal
+identifiable information such as but not limited to biodata,
+behavioral data, biometric data, fingerprint data, and health data which,
+by nature and by default, is a Sensitive Data protected under PDPA.
 
-"Purchase" means the action of obtaining a Product via the means of
+"Procure", "Procurement" means the action of obtaining or referring to
+the obtainment of a subject such as but not limited to the Product, either
+though the means of Purchase or the means of provided freely, from Us or
+from a third party regardless of its affiliation or recognition with Us.
+
+"Produced Form" means the subject is in its processed form or state such
+as but not limited to a meal, drinkable water, software binary form,
+and cloths yielded from its production process using its source or
+raw material from such as but not limited to raw vegetables,
+untreated water, software source codes, and balls of threads.
+
+"Product" means a procurable tangible or intangible serviceable packaged
+goods and services (not to be confused with Service) such as but not
+limited to software, software source codes, compiled software binaries,
+complied software libraries, computing devices, graphic materials,
+Computer Aided Design (CAD) files, architecture artifacts, consumable meal,
+clothing, data processing services, content creation services,
+and repair services offered by Us.
+
+"Purchase" means the action of obtaining or referring to the obtainment of
+a subject such as but not limited to the Product though the means of
 performing one or more Payment.
 
-"Service" means the required customer services offered by Us in order to
-deliver a procured Product or a Contribution to the Product such as but
-not limited to logistics, concierge, and etc.
+"Raw Form" means the subject is in its source or raw material form or state
+such as but not limited to raw vegetables, untreated water,
+software source codes, and ball of threads that is meant for its production
+process to yield its processed form or state such as but not limited to
+a meal, drinkable water, compiled software binary files, and a cloth.
 
-"User Interface" means the end-user interactive Interface designed for You
-to communicate with the Product and/or Service such as but not limited to
-web application; web app; mobile app; books; manuals; smart devices; and
-Our Web Portal.
+"Registered IP" means a registered intellectual property (IP) with
+ownership exclusiveness attribute either globally or territorially with
+one or more governments such as but not limited to patent,
+patent in process, industrial design, and integrated circuit layout design.
+
+"Right to Use" means a specific type of legal right for using a subject
+such as but not limited to a Product, a Service, a patent, a trademark,
+and a legal name under the terms and conditions of one or more of its
+owners.
+
+"Sensitive Data" means the information that is protected against
+unwarranted disclosure such as but not limited to PII,
+Authentication Credentials, or financial data.
+
+"Service" means the required customer services offered by Us or a third
+party Entity regardless of its affiliation or recognition with Us in
+order to deliver the value of a Procured Product or the value of a
+Contribution to a Product such as but not limited to logistical
+goods delivery, concierge, custom processing, and etc.
+
+"User Interface" means the end-user interactive Interface designed and
+facilitated by Us for You to communicate with one or more Products or
+Services such as but not limited to web application; web app; mobile app;
+books; manuals; smart devices; and Our Web Portal.
 
 "You", "Yours" means the Receiving Parties.
 
-"Web Portal" means any browse-able Content platforms accessible via
+"Web Portal" means any browse-able Content platforms accessible via a
 computer network locally or remotely under a domain name
 (e.g. hollowaykeanho.com) or an IP address of any version
 (e.g. 127.0.0.1 or 0000:0000:0000:0000:0000:0000:0000:0001) alongside with
-all its paths (e.g. www.hollowaykeanho.com/about) and all its subdomains
-(e.g. legal.hollowaykeanho.com) of any kinds directly from Us and indirectly
-from Our approved third-party service providers.
+all its paths (e.g. www.hollowaykeanho.com/about) and all its
+subdomains (e.g. legal.hollowaykeanho.com) of any kinds directly from Us
+and indirectly from Our approved third-party service providers.
 
 "We", "Us", "Our" means the Provisioning Parties and any of their
 subsidiaries, affiliates, or successors.
 
 
 2 Covenant Assignment, Ratification, and Tenure
-  2.1 Should the Covenant is under version controlled, except when a valid
-      and specific version is explicitly reproduced either through the
-      locally available Covenant Notice file or declared and reproduced by
-      the Product itself in which that specific version shall be enforced,
-      the latest and greatest version of the entire Covenant including all
-      its terms and conditions outside of this section shall always be
-      prevail and be enforced over all its inferiors.
-  2.2 This Covenant shall be ratified by You, be effective, and be in-force
-      until terminated according to these terms and conditions starting on
-      the date and time whichever earliest from one or more the explicitly
-      specified actions herein such as but not limited to:
-        2.2.1 fulfilling checkbox in web form submission from any of Our
-              supported User Interfaces; OR
-        2.2.2 Procuring the Product from any source with or without Ours’
+  2.1 Should the Covenant is under version controlled; except when a
+      valid and specific version is explicitly reproduced either through
+      the locally available Covenant Notice file or declared and reproduced
+      by the Product itself in which that version shall be enforced;
+      the latest and greatest version of the entire Covenant of its
+      understanding, proposals, representations, and warranties relating
+      to the subject matter shall, with prejudice, prevail, be enforced,
+      and superseding all previous versions.
+  2.2 No rule of construction or interpretation shall apply to prejudice
+      the interest of the party preparing the Covenant.
+  2.3 Those clauses which by their nature would survive the termination
+      of the Covenant shall so survive.
+  2.4 This Covenant shall be binding on and shall inure for the benefit
+      of each Party’s permitted assigns, successors in title,
+      personal representatives, executors, and administrators.
+  2.5 If any part of this Covenant is, for any reason, declared invalid
+      or unenforceable, the validity of the remaining part shall remain
+      in full force and effect as if this Covenant had been executed
+      without the invalid parts.
+  2.6 This Covenant shall be agreed and ratified by You, be effective,
+      and be in-force until terminated according to these
+      terms and conditions starting on the date and time whichever
+      earliest from one or more explicitly specified actions herein such
+      as but not limited to:
+        2.6.1 fulfilling checkbox in the web form submission from any of
+              Our User Interfaces; OR
+        2.6.2 Procuring the Product from any source with or without Ours’
               authorizations be it directly from Us or from a third-party
-              Entity regardless of its affiliation with Us; OR
-        2.2.3 using any part of the Content from the Procured Product by
-              any means regardless of any of Our Covenant Grant approval
-              status with You; OR
-        2.2.4 actively or passively using, reading, analyzing, editing,
-              modifying, updating, remixing, remastering, deleting,
-              reverse engineering, or any unspecified action herein
-              otherwise to the Product with or without Ours’ written
-              authorizations; OR
-        2.2.5 performing Payment upon the Product procurement; OR
-        2.2.6 delivering formal written Notice referencing to this Covenant
-              signed by You to Us; OR
-        2.2.7 agreement upon any other Product or Service level external
+              Entity regardless of its affiliation or recognition with
+              Us; OR
+        2.6.3 performing the Payment for Purchasing the Product as part
+              of the Procurement; OR
+        2.6.4 delivering a formal written Notice referencing to this
+              Covenant signed by You to Us; OR
+        2.6.5 agreement upon any other Product or Service level external
               terms and conditions extended from this Covenant specified
-              therein.
-  2.3 You are not permitted to assign or novate any or parts of the rights
-      and obligations under the Covenant to any party without Ours’ written
+              therein; OR
+        2.6.6 actively or passively using, reading, analyzing, editing,
+              modifying, updating, remixing, remastering, deleting,
+              reverse engineering, or any unspecified action otherwise to
+              part of or all of the Product regardless of Our written
+              authorizations or Covenant Grant provisioning status to
+              You; OR
+        2.6.7 indirectly using the Product in a legally non-contactable
+              manner such as but not limited to serving part of or all of
+              it as a training dataset for artificial intelligence and
+              neural network training purposes where, under this Covenant,
+              shall be strictly deemed as the definition of “Right to Use”
+              instead of the disputable “Right to Learn” since the latter
+              is still requiring the use the former at minimal, by reading,
+              in order to perform the act of learning.
+  2.7 You are not permitted to assign or novate any or parts of the rights
+      and obligations under the Covenant to any party without Our written
       approval.
-  2.4 We may assign or novate all or parts of the Covenant to any third
+  2.8 We may assign or novate all or parts of the Covenant to any third
       party by written Notice without prior consent from You and You shall
       agree to make all subsequent payments (if applicable) and commitment
       to Us as instructed in such further Notice.
 
 
-3 Grant of Copyright License
-  3.1 You have the permission to use, copy, modify, and/or distribute the
-      Product for any purpose with or without fee is hereby granted.
+3 Grant of the Covenant
+  3.1 Subject to the terms and conditions of this Covenant, each Creator,
+      each Contributing Entity, and Us hereby Grant You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free,
+      irrevocable copyright license to reproduce, prepare Derivatives of,
+      publicly display, publicly perform, sub-license, and distribute the
+      Product and such Derived Product in Raw Form or Produced Form.
+  3.2 Subject to the terms and conditions of this Covenant, each Creator,
+      each Contributing Entity, and Us does not express or imply any grant
+      of Registered IP license for You to make, have made, use,
+      offer to sell, sell, import, and otherwise transfer the Product,
+      where such license applies only to those Registered IP claims
+      licensable by such Contributing Entities that are necessarily
+      infringed by their Contribution(s) alone or by combination of
+      their Contribution(s) with the Product to which such Contribution(s)
+      was submitted.
+  3.3 Subject to the terms and conditions of this Covenant, each Creator,
+      each Contributing Entity, and Us does not express or imply any grant
+      of trade secret license for You to make, have made, use,
+      offer to sell, sell, import, and otherwise transfer the Product,
+      where such license applies only to those trade secret claims
+      licensable by such Contributing Entities that are necessarily
+      infringed by their Contribution(s) alone or by combination of
+      their Contribution(s) with the Product to which such Contribution(s)
+      was submitted.
+  3.4 You may reproduce and distribute copies of the Product or
+      Derived Product thereof in any medium, with or without modifications,
+      and in Raw Form or Produced Form, provided that You meet the
+      following conditions:
+        3.4.1 You must give any other recipients of the Product or
+              Derived Product a copy of this Covenant; AND
+        3.4.2 You must cause any modified files to carry prominent Notices
+              stating that You changed the files; AND
+        3.4.3 You must retain, in the Raw Form of any Derived Product that
+              You distribute, all copyright, patent, trademark,
+              geographical indicator, designated indicator, attributions,
+              and any other unspecified Notices from the Raw Form of the
+              Product; AND
+        3.4.4 If the Product includes a Notice file as part of its
+              distribution, then any Derived Product that You distribute
+              must include a readable copy of the attribution Notices
+              contained within such Notice file, excluding those Notices
+              that do not pertain to any part of the Derived Product, in
+              at least one of the following places: within a Notice text
+              file distributed as part of the Derived Product; within the
+              Raw Form or documentation, if provided along with the
+              Derived Product; or, within a display generated by the
+              Derived Products, if and wherever such third-party notices
+              normally appear; AND
+        3.4.5 In lieu with Clause 3.4.4, the contents of the Notice file
+              are for informational purposes only and do not modify the
+              Covenant; AND
+        3.4.6 In lieu with Clause 3.4.4 and Clause 3.4.5, You may add
+              Your own attribution Notices within the Derived Product
+              that You distribute, alongside or as an addendum to the
+              Notice text from the Product, provided that such additional
+              attribution notices cannot be construed as modifying the
+              Covenant.
+  3.5 You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications,
+      or for any such Derived Product as a whole, provided Your use,
+      reproduction, and distribution of the Product otherwise complies
+      with the conditions stated in this Covenant.
+  3.6 While redistributing the Product or Derived Product thereof,
+      You may choose to offer, and charge a fee for,
+      acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      Covenant.
+  3.7 In lieu with Clause 3.6, however, in accepting such obligations,
+      You may act only on Your own behalf and on Your sole responsibility,
+      not on behalf of any other Contributing Entity, and Us only if You
+      agree to indemnify, defend, and hold each of us harmless for any
+      liability incurred by, or claims asserted against, such us by reason
+      of Your accepting any such warranty or additional liability.
+  3.8 Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement You may have executed
+      with Us regarding such Contributions.
 
 
-4 Disclaimer of Warranty
-  4.1 The Product is provided “as is” and the Creators disclaim all
-      warranties with regard to this Product including all implied
-      warranties of merchantability and fitness.
+4 Trademark, Names, and Registered Identifier
+  4.1 This Covenant does not grant You the permission to use the
+      trade names, trademarks, service marks, product names, legal names,
+      geographical indicator (GI), protected geographical indicator (PGI),
+      protected designated indicator (PDI), or any other registered
+      identifier of any Creator, any Contributing Entity, or any of Us;
+      except as required for reasonable and customary use in describing
+      the origin of the Product and reproducing the content of the
+      Notice file.
 
 
-5 Limitation of Liability
-  5.1 In no event shall the Creators be liable for any special, direct,
-      indirect, or consequential damages or any damages whatsoever resulting
-      from loss of use, data or profits, whether in an action of contract,
-      negligence or other tortious action, arising out of or in connection
-      with the use or performance of the Product.
+5 Disclaimer of Warranty
+  5.1 Unless required by applicable law or agreed to in writing,
+      all Creators, all Contributing Entities, and Us provide the Product
+      on an “as is” basis, without warranties or conditions of any kind,
+      either express or implied, including, without limitation,
+      any warranties or conditions of title, non-infringement,
+      merchantability, or fitness for a particular purpose.
+  5.2 While all Creators, all Contributing Entities, and Us are committed
+      to protect Your Sensitive Data such as but not limited to placing
+      the required technologies and standards to protect them, we do not
+      guarantee or warrant a completely zero incident of any unauthorized
+      or accidental access to such data.
+  5.3 You are solely responsible for determining the appropriateness of
+      using or redistributing the Product and assume any risks associated
+      with Your exercise of permissions under this Covenant.
 
 
-6 Applying the Covenant to Your Product
-  6.1 To apply this Covenant to Your Product, You shall attach the following
-      boilerplate Notice, with the fields enclosed by brackets “[]” replaced
-      with your own identifying information without including the brackets
-      themselves.
+6 Limitation of Liability
+  6.1 In no event and under not legal theory, whether in tort
+      (including negligence), contract or otherwise; unless required by
+      applicable law (such as deliberate and grossly negligent acts) or
+      agreed to in writing; You agree to indemnify and shall keep Us,
+      all Creators, and All Contributing Entities indemnified from any
+      direct, indirect, special, incidental, or consequential
+      loss or damages of any character or form such as but not limited to
+      claim of libel, privacy and/or copyright infringement,
+      patent litigation, legal actions, breach of trust,
+      breach of confidence, and breach of any law of regulations; even
+      under advisory of the possibility of such damaging consequences;
+      arising out of:
+        6.1.1 this Covenant; OR
+        6.1.2 loss of use, or inability to use (including but not limited
+              to damages for loss of goodwill, work stoppage,
+              failure or malfunction, or any other form of interruption,
+              damages, or losses) of the Product; OR
+        6.1.3 data or profits of the Product; OR
+        6.1.4 Any consequence, whether in an action of contract,
+              negligence or other tortious action, arising out of or in
+              connection with the use or performance of the Product.
+  6.2 Without limiting the generality of any provision in this Covenant,
+      You agree to indemnify and shall keep all Creators,
+      all Contributing Entities, and Us indemnified from any failure to
+      perform any obligation by us or by the Product, any loss, any damage,
+      any liability or any expense caused by force majeure for whom we has
+      no control over or any cause outside our reasonable control such as
+      but not limited to an act of God, insurrection or civil disorder,
+      military operations, act of terrorism, emergency, acts or omission
+      of Government or any competent authority, labor trouble or
+      industrial disputes of any kind, fire, lightning, landslide,
+      earthquake, subsidence, explosion, floods, radio interference,
+      room temperature fluctuation, power disruptions,
+      infrastructure collapses, or acts of omission of persons or bodies
+      not from us.
+  6.3 Due to the global and technological nature of the digital data
+      processing businesses, for the purpose set out in this Covenant,
+      You hereby grant all Creators, all Contributing Entities,
+      and Us to perform any transfer of Your Sensitive Data to any
+      associated and applicable third parties such as but not limited
+      to certified datacenter or certified Sensitive Data security
+      service provider outside Your and Our countries of operations and
+      countries of residences in which the recipient shall provide a
+      standard of protection for the received Sensitive Data comparable
+      to that of Your and Our PDPA; and hereby indemnify all of us from
+      any of its consequences arising therein.
+  6.4 Without limiting the generality of any provision in this Covenant,
+      You agree to indemnify and shall keep all Creators,
+      all Contributing Entities, and Us indemnified from any consequences
+      yielded from any unauthorized or accidental access to
+      Your Sensitive Data as we do not guarantee or warrant a complete
+      zero incident of such from happening.
+  6.5 You agree that should any legal judiciary court of any country is
+      involved with You allegedly violating any of the terms and conditions
+      of this Covenant in any of Your pursue, You agree that regardless
+      of any judiciary conclusion be it a bona-fide violation as the
+      defendant or a false allegation from the plaintiff, both sides had
+      indiscriminately incurred a minimum amount of damage values to the
+      winning party where the legal judiciary court deemed worthy for
+      initiating a proceeding wherever applicable such that the specified
+      amount is constituted from the following, whichever highest:
+        6.5.1 a minimal amount of 120,000.00
+              (one hundred and twenty thousand) of the biggest globally
+              trading reserve currency dated to the first day of the
+              litigation is filed
+              (e.g. 120 thousand US Dollar as of year 2024) plus its
+              adjusted inflation starting from date of this Covenant
+              agreed and ratified by You; OR
+        6.5.2 the minimum value decided by the judiciary court overruling
+              Clause 6.5.1.
+
+
+7 Applying the Covenant to Your Product
+  7.1 To apply this Covenant to Your Product, You shall attach the
+      following boilerplate Notice, with the fields enclosed by
+      brackets “[]” replaced with your own identifying information without
+      including the brackets themselves.
 --------------------------------------------------------------------------------
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
@@ -255,24 +492,17 @@ License. You may obtain a copy of the License at
 
                  https://doi.org/10.5281/zenodo.13770769
 
-You have the permission to use, copy, modify, and/or distribute this product
-for any purpose with or without fee is hereby granted.
-
-THE PRODUCT IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS PRODUCT INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS PRODUCT.
+Unless required by applicable law or agreed to in writing, the content
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. The License
+does not express or implied to license any party’s registered and confidential
+intellectual properties such as but not limited to patent, patent in process,
+industrial design, integrated circuit layout design, and trade secrets. See the
+License for the specific language governing permissions and limitations under
+the License.
 --------------------------------------------------------------------------------
-  6.2 In lieu with Clause 6.1, the text should be enclosed in the
-      appropriate comment syntax for the file format.
-  6.3 We also recommend that a file or class name and description of
-      purpose be included on the same “printed page” as the copyright Notice
-      for easier identification within third-party archives.
-
-
-7 Contact and Support
-  7.1 We are reachable via the following channels:
-        7.1.1 Email: hello@hollowaykeanho.com OR legal@hollowaykeanho.com
+  7.2 In lieu with Clause 7.1, the text should be enclosed in the appropriate
+      comment syntax for the file format.
+  7.3 We also recommend that a file or class name and description of purpose
+      be included on the same “printed page” as the copyright Notice for
+      easier identification within third-party archives.
